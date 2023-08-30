@@ -1,0 +1,25 @@
+.title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.recipes{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.picture{
+    width: 300px;
+    height:auto;
+    /*need to learn how to center the photo under the title*/
+}
+
+.title.little{
+    color: white;
+    background-color: black;
+}
+
+.body{
+    text-align: center;
+    /*i noticed that i couldn't set a px limit without sticking it 
+    to the left side of the screen only*/
+}
