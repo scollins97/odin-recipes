@@ -22,4 +22,5 @@
     text-align: center;
     /*i noticed that i couldn't set a px limit without sticking it 
     to the left side of the screen only*/
+    background-color: whitesmoke;
 }
